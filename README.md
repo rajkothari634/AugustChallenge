@@ -2,7 +2,10 @@
 Contains question solution for august challenge on LeetCode
 
 ## Detect Capital - 1st Aug 2020
-file name - stringClassification
+File Name - stringClassification
 
 ## Design HashSet - 2nd Aug 2020
-file name - MyHashSet
+File Name - MyHashSet
+
+## Valid Palindrome - 3rd Aug 2020
+File Name - Palindrome
