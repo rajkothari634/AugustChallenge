@@ -9,3 +9,6 @@ File Name - MyHashSet
 
 ## Valid Palindrome - 3rd Aug 2020
 File Name - Palindrome
+
+## Power of Four - 4th Aug 2020
+File Name - PowerOfFour
