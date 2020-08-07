@@ -14,4 +14,4 @@ File Name - Palindrome
 File Name - PowerOfFour
 
 ## Add and Search Word - 5th Aug 2020
-File Name - WordDictionary
+*File Name* - WordDictionary
